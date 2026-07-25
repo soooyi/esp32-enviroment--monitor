@@ -25,7 +25,7 @@
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(2, OUTPUT);// 测试验证登录
+  pinMode(2, OUTPUT);// 加油
 }
 
 // the loop function runs over and over again forever
